@@ -58,16 +58,6 @@ The full Arduino `.ino` file is included in this project and contains:
 - Serial and button reset
 - Pulse timeout for sensor failure detection
 
-## 🗂 File Structure
-arduino-tachometer/
-├── Tachometer_Project.ino
-├── README.md
-├── Tachometer_Summary.pdf
-├── 3D_Case_Design_Prompt.txt
-├── images/ (optional)
-└── LICENSE (optional)
-
-
 ## 🔄 Uploading to GitHub
 1. Create a new GitHub repo
 2. Clone it locally
