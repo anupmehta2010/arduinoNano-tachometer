@@ -59,3 +59,32 @@ The full Arduino `.ino` file is included in this project and contains:
 - Pulse timeout for sensor failure detection
 
 ## 🗂 File Structure
+arduino-tachometer/
+├── Tachometer_Project.ino
+├── README.md
+├── Tachometer_Summary.pdf
+├── 3D_Case_Design_Prompt.txt
+├── images/ (optional)
+└── LICENSE (optional)
+
+
+## 🔄 Uploading to GitHub
+1. Create a new GitHub repo
+2. Clone it locally
+3. Copy project files into folder
+4. Run `git add .`, `git commit -m "initial"`, `git push`
+
+## 🧪 Testing Instructions
+1. Power via 12V supply
+2. Observe LCD for correct RPM/RPH
+3. Test sensor by rotating reflective object
+4. Press reset button or enter `reset` via serial monitor
+
+## 🛠 Future Additions
+- Bluetooth data streaming
+- Data logging to SD card
+- Touchscreen interface
+
+## 📬 Author
+**Maniga** — Project for hands-on embedded systems and electronics learning.
+
